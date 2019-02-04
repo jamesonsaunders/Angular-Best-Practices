@@ -1,6 +1,6 @@
 # AngularBestPractices
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
+This project accompanies the JamiBot YouTube video on [5 Angular Best Practices](https://youtu.be/j0JBp5OEzJc).
 
 ## Development server
 
