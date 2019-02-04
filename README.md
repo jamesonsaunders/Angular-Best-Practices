@@ -1,6 +1,6 @@
 # AngularBestPractices
 
-This project accompanies the JamiBot YouTube video on [5 Angular Best Practices](https://youtu.be/j0JBp5OEzJc).
+This project accompanies the [JamiBot](https://jamibot.com) YouTube video on [5 Angular Best Practices](https://youtu.be/j0JBp5OEzJc).
 
 ## Development server
 
