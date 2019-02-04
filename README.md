@@ -1,4 +1,4 @@
-# AngularBestPractices
+# Angular Best Practices
 
 This project accompanies the [Jami Bot](https://jamibot.com) YouTube video on [5 Angular Best Practices](https://youtu.be/j0JBp5OEzJc).
 
