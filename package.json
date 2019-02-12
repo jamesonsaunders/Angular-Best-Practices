@@ -1,5 +1,7 @@
 {
   "name": "angular-best-practices",
+  "author": "Jami Bot",
+  "homepage": "https://jamibot.com/",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
