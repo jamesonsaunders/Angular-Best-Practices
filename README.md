@@ -1,10 +1,10 @@
 # Angular Best Practices
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video on [5 Angular Best Practices](https://youtu.be/j0JBp5OEzJc).
+This project accompanies the [Jameson Saunders](https://jamesonsaunders.com) YouTube video on [5 Angular Best Practices](https://youtu.be/j0JBp5OEzJc).
 
 [![5 Angular Best Practices](https://img.youtube.com/vi/j0JBp5OEzJc/maxresdefault.jpg)](https://youtu.be/j0JBp5OEzJc)
 
-If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web development videos.
+If you haven't already, check out the [Jameson Saunders YouTube Channel](https://youtube.com/c/JamesonSaunders) for web & mobile development videos.
 
 ## Installation
 
